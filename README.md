@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazradev)](https://github.com/gyoon-/github-readme-stats)
+![gyoon-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyoon-dev&show_icons=true&theme=radical)
+
 
 
 <!--
